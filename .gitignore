@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+# CUSTOMER FILE TYPE I WANT IGNORE
+.DS_STORE
 # Distribution / packaging
 .Python
 build/
